@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Add all warmup-1 solutions">
-      <change afterPath="$PROJECT_DIR$/src/Warmup_2.java" afterDir="false" />
+    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Add all warmup-2 solutions">
+      <change afterPath="$PROJECT_DIR$/src/String_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721120977521</updated>
-      <workItem from="1721120979065" duration="7316000" />
+      <workItem from="1721120979065" duration="9714000" />
     </task>
     <task id="LOCAL-00001" summary="Add first warmup solutions">
       <option name="closed" value="true" />
@@ -74,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721128725487</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add all warmup-2 solutions">
+      <option name="closed" value="true" />
+      <created>1721130383682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721130383682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add first warmup solutions" />
     <MESSAGE value="Add all warmup-1 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add all warmup-1 solutions" />
+    <MESSAGE value="Add all warmup-2 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all warmup-2 solutions" />
   </component>
 </project>
