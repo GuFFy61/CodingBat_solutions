@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Add first warmup solutions">
+    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Add all warmup-1 solutions">
+      <change afterPath="$PROJECT_DIR$/src/Warmup_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Warmup_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721120977521</updated>
-      <workItem from="1721120979065" duration="5529000" />
+      <workItem from="1721120979065" duration="7316000" />
     </task>
     <task id="LOCAL-00001" summary="Add first warmup solutions">
       <option name="closed" value="true" />
@@ -66,7 +66,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721124105055</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add all warmup-1 solutions">
+      <option name="closed" value="true" />
+      <created>1721128725487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721128725487</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,17 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add first warmup solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add first warmup solutions" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Add all warmup-1 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all warmup-1 solutions" />
   </component>
 </project>
