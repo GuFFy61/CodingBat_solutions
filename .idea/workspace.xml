@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Add all string-1 solutions">
-      <change afterPath="$PROJECT_DIR$/src/Array_1.java" afterDir="false" />
+    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Add all array-1 solutions">
+      <change afterPath="$PROJECT_DIR$/src/Map_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721120977521</updated>
       <workItem from="1721120979065" duration="9991000" />
-      <workItem from="1721219059275" duration="2332000" />
+      <workItem from="1721219059275" duration="3680000" />
     </task>
     <task id="LOCAL-00001" summary="Add first warmup solutions">
       <option name="closed" value="true" />
@@ -98,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721132892002</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add all array-1 solutions">
+      <option name="closed" value="true" />
+      <created>1721221557001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721221557001</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +128,7 @@
     <MESSAGE value="Add all warmup-1 solutions" />
     <MESSAGE value="Add all warmup-2 solutions" />
     <MESSAGE value="Add all string-1 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add all string-1 solutions" />
+    <MESSAGE value="Add all array-1 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all array-1 solutions" />
   </component>
 </project>
