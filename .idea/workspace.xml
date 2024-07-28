@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Added all string-2 solutions">
-      <change afterPath="$PROJECT_DIR$/src/String_3.java" afterDir="false" />
+    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Added all string-3 solutions">
+      <change afterPath="$PROJECT_DIR$/src/Functional_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <workItem from="1721219059275" duration="5701000" />
       <workItem from="1721486210143" duration="4265000" />
       <workItem from="1721816502777" duration="5894000" />
-      <workItem from="1722178910494" duration="1850000" />
+      <workItem from="1722178910494" duration="2493000" />
     </task>
     <task id="LOCAL-00001" summary="Add first warmup solutions">
       <option name="closed" value="true" />
@@ -157,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722180335448</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added all string-3 solutions">
+      <option name="closed" value="true" />
+      <created>1722181034598</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722181034598</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,7 @@
     <MESSAGE value="Added all logic-2 solutions" />
     <MESSAGE value="Added all functional-1 solutions" />
     <MESSAGE value="Added all string-2 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all string-2 solutions" />
+    <MESSAGE value="Added all string-3 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all string-3 solutions" />
   </component>
 </project>
