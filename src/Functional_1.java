@@ -2,6 +2,10 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Functional_1 {
+    /*
+    Functional mapping operations on lists with lambdas. See the Java Functional Mapping page for an introduction.
+    The main computation for each of these problems can be done with 1 line of lambda code.
+     */
     class Doubling {
         /* Given a list of integers, return a list where each integer is multiplied by 2.
 

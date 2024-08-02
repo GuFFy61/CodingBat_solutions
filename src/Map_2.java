@@ -2,6 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Map_2 {
+    /*
+    Maps with bulk data and loops.
+     */
     class Word0 {
         /* Given an array of strings, return a Map<String, Integer> containing a key for
         every different string in the array, always with the value 0. For example the string

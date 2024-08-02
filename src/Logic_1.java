@@ -1,4 +1,7 @@
 public class Logic_1 {
+    /*
+    Basic boolean logic puzzles -- if else && || !.
+     */
     class CigarParty {
         /* When squirrels get together for a party, they like to have cigars.
         A squirrel party is successful when the number of cigars is between 40 and 60,

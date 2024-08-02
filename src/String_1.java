@@ -1,4 +1,8 @@
 public class String_1 {
+    /*
+    Basic string problems -- no loops. Use + to combine Strings, str.length() is the number of
+    chars in a String, str.substring(i, j) extracts the substring starting at index i and running up to but not including index j.
+     */
     class HelloName {
         /* Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".
 

@@ -1,4 +1,7 @@
 public class String_2 {
+    /*
+    Medium String problems -- 1 loop.
+     */
     class DoubleChar {
         /* Given a string, return a string where for every char in the original, there are two chars.
 

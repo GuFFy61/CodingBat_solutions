@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Added all functional-3 solutions">
+    <list default="true" id="6b785bd2-d763-4939-9469-cfa22c5590c5" name="Changes" comment="Added all array-3 solutions">
+      <change afterPath="$PROJECT_DIR$/src/Ap_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functional_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functional_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functional_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functional_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Warmup_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Warmup_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +82,8 @@
       <workItem from="1721486210143" duration="4265000" />
       <workItem from="1721816502777" duration="5894000" />
       <workItem from="1722178910494" duration="3896000" />
+      <workItem from="1722510738729" duration="2908000" />
+      <workItem from="1722591476512" duration="2478000" />
     </task>
     <task id="LOCAL-00001" summary="Add first warmup solutions">
       <option name="closed" value="true" />
@@ -172,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722181609569</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added all array-2 solutions">
+      <option name="closed" value="true" />
+      <created>1722512945798</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722512945798</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added all array-3 solutions">
+      <option name="closed" value="true" />
+      <created>1722513561341</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722513561341</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +236,8 @@
     <MESSAGE value="Added all string-2 solutions" />
     <MESSAGE value="Added all string-3 solutions" />
     <MESSAGE value="Added all functional-3 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all functional-3 solutions" />
+    <MESSAGE value="Added all array-2 solutions" />
+    <MESSAGE value="Added all array-3 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all array-3 solutions" />
   </component>
 </project>

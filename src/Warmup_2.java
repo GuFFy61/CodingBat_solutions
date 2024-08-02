@@ -1,4 +1,7 @@
 public class Warmup_2 {
+    /*
+    Medium warmup string/array loops
+     */
     class StringTimes {
         /* Given a string and a non-negative int n, return a larger string that is n
         copies of the original string.

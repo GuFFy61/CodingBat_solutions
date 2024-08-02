@@ -1,6 +1,10 @@
 import java.util.List;
 
 public class Functional_2 {
+    /*
+    Functional filtering and mapping operations on lists with lambdas. See the Java Functional Filtering page
+    for an introduction. The main computation for each of these problems can be done with 1 or 2 lines of lambda code.
+     */
     class NoNeg {
         /* Given a list of integers, return a list of the integers, omitting any that are less than 0.
 

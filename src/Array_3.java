@@ -3,6 +3,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Array_3 {
+    /*
+    Harder array problems -- 2 loops, more complex logic.
+     */
     class MaxSpan {
         /* Consider the leftmost and righmost appearances of some value in an array. We'll say that the "span"
         is the number of elements between the two inclusive.

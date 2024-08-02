@@ -1,6 +1,9 @@
 import java.util.Map;
 
 public class Map_1 {
+    /*
+    Basic Map get()/put(), no loops. These can be solved with just get(), put(), and containsKey(). No loops required.
+     */
     class MapBully {
         /* Modify and return the given map as follows: if the key "a" has a value,
         set the key "b" to have that value, and set the key "a" to have the value "". Basically "b"

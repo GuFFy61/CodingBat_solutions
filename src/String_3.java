@@ -3,6 +3,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class String_3 {
+    /*
+    Harder String problems -- 2 loops.
+     */
     class CountYZ {
         /* Given a string, count the number of words ending in 'y' or 'z' -- so the 'y' in "heavy" and the 'z'
         in "fez" count, but not the 'y' in "yellow" (not case sensitive). We'll say that a y or z is at the end of
